@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
-#include <stdlib.h>
 int main() {
      int n,r,s1=0,r2=0;
     scanf("%d",&n);
