@@ -2,7 +2,7 @@
 #include <string.h>
 #include <math.h>
 int main() {
-    int ad;
+    int ad,hfuwehf;
      int n,r,s1=0,r2=0;
     scanf("%d",&n);
     while(n!=0)
